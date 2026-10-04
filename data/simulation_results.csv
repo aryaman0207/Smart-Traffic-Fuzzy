@@ -1,0 +1,3 @@
+Controller,Total Arrivals,Vehicles Served,Average Waiting Time (sec),Maximum Waiting Time (sec),Average Queue Length
+fixed,1524,846,360.68,1005,356.19
+fuzzy,1524,854,350.14,921,348.86
